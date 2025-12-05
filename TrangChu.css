@@ -8,7 +8,7 @@
 }
 #icons{
   color: orange;
-}
+}    
 #element{
   margin: 0 5% 0 5%;
 }
@@ -18,7 +18,12 @@
   color: gray;
 }
 .Background{
-  background-color:#ffd580; width: 100%; height: 100%; position: fixed; top: 0; left: 0;
+  background-color:#ffd580; 
+  width: 100%; 
+  height: 100%;
+   position: fixed; 
+   top: 0;
+    left: 0;
 
 }
 .screen{
@@ -100,7 +105,7 @@ color: white;
  .Menu{
  transition: 0.3s;
   border-radius: 7px;
-  margin-right: 10px;
+  margin-right: 5px;
   text-decoration: none;
   color: black;
  }
